@@ -1,4 +1,4 @@
-%% Rest
+%% ChangeStim2 -- During the sham-stim and different stim types
 DrawFormattedText(window,'Please reach the experimenter now and do NOT press anything. \n\n We will modify the stimulation parameters before you proceed to the next list.','center','center',black);
 Screen('Flip',window);
 while 1
