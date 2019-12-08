@@ -1,6 +1,6 @@
 # Value_Directed_Remembering-tDCS
 
-This repository contains the experiment and data analysis codes written by Linfeng Han (Tony) for the project **Effects of Transcranial Direct Current Stimulation of Ventrolateral Prefrontal Cortex on Value-Based Modulation of Memory Encoding**.
+This repository contains the experiment and data analysis codes written by Linfeng Han (Tony) for the project **Effects of Transcranial Direct Current Stimulation of Ventrolateral Prefrontal Cortex on Value-Incentivized Modulation of Memory Encoding**.
 
 Direct supervisor: Dr. Jesse Rissman, Dept. of Psychology, UCLA.
 
