@@ -4,7 +4,7 @@ This repository contains the experiment and data analysis codes written by Linfe
 
 Direct supervisor: Dr. Jesse Rissman, Dept. of Psychology, UCLA.
 
-The ***Experimental_Programs*** folder contains the scripts written for the experimental sessions (written in MATLAB Psychtoolbox). Note that all scripts were not written in the **function** format because global variables do not work fine with MATLAB R2012b.  
+The ***Experiment_Programs*** folder contains the scripts written for the experimental sessions (written in MATLAB Psychtoolbox). Note that all scripts were not written in the **function** format because global variables do not work fine with MATLAB R2012b.  
 The ***Data_Analysis*** folder contains the analysis codes for the data. We used the ROC Toolbox (Koen et al., 2016) to accomplish the ROC analysis.
 
 Please contact Linfeng Han (Tony):linfenghan98@gmail.com for any questions or comments. Thank you for all your feedback on our project!
