@@ -14,4 +14,6 @@ For any questions or comments, please feel free to contact Linfeng via email: li
 
 **4. Feedback on performance.** Cohen et al. (2014, 2016) pointed out that the feedback on performance allows for sculpting of cognitive strategies. Here, we presented these pieces of information to the participants: correctly recalled words (and the point values associated with them), total point values obtained in the current list, total accumulative points, and best score (including the current list). This module is written in ***Screen_Feedback.m***.
 
+***VDR_Main_Session2.m*** is the main script for Day 2 experiment. 180 studied words and 90 lure words are presented sequentially for parcipants to do 6-point old/new confidence rating.
+
 Other portions of the experiment (e.g., instructions, rests) are written in other scripts in this repository.
