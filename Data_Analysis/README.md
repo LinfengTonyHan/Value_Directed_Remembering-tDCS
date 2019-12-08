@@ -12,6 +12,6 @@ For the equation for calculating the selectivity index in value-directed free re
 
 ***Day2_Analysis_3Groups_Basic.m*** computes and visualizes the results from Day 2 recognition (6-point scale confidence ratings). 
 
-***Day2_Analysis_3Groups_2Stages_UVSD.m Day2_Analysis_3Groups_2Stages_EVSD.m Day2_Analysis_3Groups_2Stages_RawDprime.m*** compute the d' in different models. In addition, to look at the results on Day 1, Day 2, or the differences between the two days, you can simply change the variable in line 28 ***figureResults***.
+***Day2_Analysis_3Groups_2Stages_UVSD.m Day2_Analysis_3Groups_2Stages_EVSD.m Day2_Analysis_3Groups_2Stages_RawDprime.m*** compute the d' in different models. In addition, to look at the results on stage 1, stage 2, or the differences between the two stages, you can simply change the variable in line 28 ***figureResults***.
 
 To compute one or multiple individual subjects' results (and ROC curves under different conditions), please look at ***Individual_Subjects_SS2.m***.
