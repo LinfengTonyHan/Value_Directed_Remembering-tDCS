@@ -15,3 +15,5 @@ For the equation for calculating the selectivity index in value-directed free re
 ***Day2_Analysis_3Groups_2Stages_UVSD.m Day2_Analysis_3Groups_2Stages_EVSD.m Day2_Analysis_3Groups_2Stages_RawDprime.m*** compute the d' in different models. In addition, to look at the results on stage 1, stage 2, or the differences between the two stages, you can simply change the variable in line 28 ***figureResults***.
 
 To compute one or multiple individual subjects' results (and ROC curves under different conditions), please look at ***Individual_Subjects_SS2.m***.
+
+Full citation of the ROC Toolbox: Koen, J. D., Barrett, F. S., Harlow, I. M., & Yonelinas, A. P. (2017). The ROC Toolbox: A toolbox for analyzing receiver-operating characteristics derived from confidence ratings. *Behavior research methods*, 49(4), 1399-1406.
